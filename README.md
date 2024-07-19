@@ -1,4 +1,4 @@
 # Steam-observation
-- Automated tasks to webscrape many differents pages needed.
+- Automated tasks: A range of year is provided and webdriver fetch the informations through the pages.
 - Used CSV collected, cleaned and analysed data.
 - Selenium Webdriver , sklearn, statsmodel
